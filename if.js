@@ -11,7 +11,7 @@ let y;
 //el papel le gana a la piedraMath.floor(Math.random()*((3+1)-1+1))
 alert("Vamos a Jugar piedra papel o tijeras contra la consola");
 
-let escoge = prompt("Escoge 1 = piedra, 2 = papel, 3 = tijera");
+let escoge = prompt("Escoge; piedra =1, papel=2, tijera=3");
 
 
 
